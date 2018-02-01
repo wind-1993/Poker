@@ -1,6 +1,6 @@
-public class NetWorkUtil(){
-	public static getClint(){};
-	public static getData(){};
-	public static sendData(){};
+public class NetWorkUtil{
+	public static void getClint(){};
+	public static void getData(){};
+	public static void sendData(){};
 	public void connect(){};
 }
